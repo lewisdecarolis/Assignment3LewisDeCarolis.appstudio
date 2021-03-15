@@ -34,22 +34,7 @@
             "forReverseStates",
             "forReverseStates.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "functionCompare",
-            "functionCompare.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "dogStore",
-            "dogStore.json"
-          ]
+
         }
       ],
       "configxml": null,
