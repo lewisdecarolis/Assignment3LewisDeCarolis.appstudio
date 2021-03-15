@@ -11,13 +11,4 @@ for(i = 0; i < reverseStates.length; i++)
 */
 
 
-/*
-//Declare Vatiables
-let password1 = prompt("Enter your password")
-let password2 = prompt("Enter your password again")
-let similar = ""
 
-//Function to compare password 1 and 2
-function compare(pass1, pass2){
-let similar = (pass1 ==  pass2)
-if (similar)

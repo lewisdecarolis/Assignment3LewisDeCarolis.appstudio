@@ -34,6 +34,22 @@
             "forReverseStates",
             "forReverseStates.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "functionCompare",
+            "functionCompare.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "dogStore",
+            "dogStore.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "dogStore",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
